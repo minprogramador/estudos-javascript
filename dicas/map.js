@@ -1,6 +1,9 @@
 
 /*
 //#Percorrer elementos de um vetor/array
+
+Transforma 1 valor para outro.
+
 */
 
 const vetor = [
